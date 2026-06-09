@@ -1,7 +1,7 @@
 # CRUD USER - ADDRESS
 O projeto se trata de uma API que cadastra usuários e endereços em um banco de dados MySql.
 
-usei o seguinte repositororio como base a base da arquitetura limpa:
+Usei o seguinte repositororio como base a base da arquitetura limpa:
 [quarkus clean arch base - Sandro Ramos](https://github.com/Sandrolaxx/quarkus-clean-arch-base)
 A API foi desenvolvida usando JDK 17, Quarkus, arquitetura limpa, API RESTful e banco de dados relacional MySql.
 
